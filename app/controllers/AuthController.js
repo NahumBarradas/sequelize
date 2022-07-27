@@ -47,7 +47,7 @@ module.exports = {
         //}).then(function(count) {
 
         //})
-        n_control = "2epofmp2ec";
+        n_control = "añauwuanya";
         //Crear usuario
         registro_aspirante.create({
             nombre_s: req.body.nombre_s,
