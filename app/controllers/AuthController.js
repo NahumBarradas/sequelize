@@ -47,7 +47,7 @@ module.exports = {
         //}).then(function(count) {
 
         //})
-        n_control = "añauwuanya";
+        n_control = "chingasatumadre";
         //Crear usuario
         registro_aspirante.create({
             nombre_s: req.body.nombre_s,
